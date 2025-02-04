@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+ <channel>
+   <title>Redrice News</title>
+   <link>https://example.com</link>
+   <description>Curated articles about Redrice ventures and related news.</description>
+   <language>en-us</language>
+   <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
+ 
+   <item>
+     <title>London-based Self Space gets €2.6 million to set up on-demand therapy on every high street</title>
+     <link>https://www.eu-startups.com/2024/01/london-based-self-space-gets-e2-6-million-to-set-up-on-demand-therapy-on-every-high-street/</link>
+     <description>Self Space secures funding to make therapy accessible on every high street.</description>
+     <pubDate>Thu, 04 Jan 2024 08:00:00 GMT</pubDate>
+     <media:content url="https://www.eu-startups.com/wp-content/uploads/2024/01/self-space.jpg" type="image/jpeg" />
+   </item>
+ 
+   <item>
+     <title>An Interview with Redrice Ventures</title>
+     <link>https://www.british-business-bank.co.uk/for-finance-providers/equity-finance/enterprise-capital-funds/guidance/an-interview-with-redrice-ventures</link>
+     <description>A discussion with Redrice Ventures about their investment strategy.</description>
+     <pubDate>Thu, 18 Jan 2024 09:00:00 GMT</pubDate>
+     <media:content url="https://www.british-business-bank.co.uk/wp-content/uploads/2024/01/redrice-ventures.jpg" type="image/jpeg" />
+   </item>
+ 
+   <item>
+     <title>Cardiff-based travel platform Lovetovisit raises €3.8 million to champion local tourism</title>
+     <link>https://www.eu-startups.com/2024/08/cardiff-based-travel-platform-lovetovisit-raises-e3-8-million-to-champion-local-tourism/</link>
+     <description>Lovetovisit raises funding to boost local tourism in Cardiff.</description>
+     <pubDate>Mon, 08 Aug 2024 10:00:00 GMT</pubDate>
+     <media:content url="https://www.eu-startups.com/wp-content/uploads/2024/08/lovetovisit.jpg" type="image/jpeg" />
+   </item>
+ 
+   <item>
+     <title>Coopah: The Run Coaching App Announces $1.5M Funding Round</title>
+     <link>https://insider.fitt.co/press-release/coopah-the-run-coaching-app-announces-1-5m-funding-round-to-bring-the-medicine-of-running-to-the-masses/</link>
+     <description>Coopah secures funding to expand its running coaching app.</description>
+     <pubDate>Wed, 10 Feb 2024 12:00:00 GMT</pubDate>
+     <media:content url="https://insider.fitt.co/wp-content/uploads/2024/02/coopah.jpg" type="image/jpeg" />
+   </item>
+ 
+   <item>
+     <title>Redrice Ventures: Deploying Up to £10M a Year into Early-Stage Consumer Brands</title>
+     <link>https://growthbusiness.co.uk/redrice-ventures-deploying-up-to-10m-a-year-into-early-stage-consumer-brands-20109/</link>
+     <description>Redrice Ventures supports early-stage consumer brands with significant investment.</description>
+     <pubDate>Tue, 22 Feb 2024 14:00:00 GMT</pubDate>
+     <media:content url="https://growthbusiness.co.uk/wp-content/uploads/2024/02/redrice-investment.jpg" type="image/jpeg" />
+   </item>
+ 
+   <item>
+     <title>Spacegoods: Functional Beverage Mushroom</title>
+     <link>https://techcrunch.com/2024/02/14/spacegoods-functional-beverage-mushroom/</link>
+     <description>Spacegoods launches a new functional beverage with mushroom-based ingredients.</description>
+     <pubDate>Wed, 14 Feb 2024 08:00:00 GMT</pubDate>
+     <media:content url="https://techcrunch.com/wp-content/uploads/2024/02/spacegoods.jpg" type="image/jpeg" />
+   </item>
+ 
+   <item>
+     <title>GoJoe raises £2.4M for Gamified Employee Health and Fitness App</title>
+     <link>https://tech.eu/2024/07/08/gojoe-raises-ps24m-for-gamified-employee-health-and-fitness-app/</link>
+     <description>GoJoe secures funding to gamify employee fitness and well-being.</description>
+     <pubDate>Mon, 08 Jul 2024 11:00:00 GMT</pubDate>
+     <media:content url="https://tech.eu/wp-content/uploads/2024/07/gojoe.jpg" type="image/jpeg" />
+   </item>
+ 
+   <item>
+     <title>UK-based social fashion rental platform By Rotation bags €2.7 million to scale rapid growth</title>
+     <link>https://www.eu-startups.com/2022/04/uk-based-social-fashion-rental-platform-by-rotation-bags-e2-7-million-to-scale-rapid-growth/</link>
+     <description>By Rotation raises funding to expand its fashion rental platform.</description>
+     <pubDate>Tue, 12 Apr 2022 10:00:00 GMT</pubDate>
+     <media:content url="https://www.eu-startups.com/wp-content/uploads/2022/04/by-rotation.jpg" type="image/jpeg" />
+   </item>
+ 
+   <item>
+     <title>Hylo raises £2.5M investment for sustainable athletic footwear expansion plans</title>
+     <link>https://www.theindustry.fashion/hylo-raises-2-5m-investment-for-sustainable-athletic-footwear-expansion-plans/</link>
+     <description>Hylo secures funding to scale its sustainable footwear business.</description>
+     <pubDate>Thu, 04 May 2024 09:00:00 GMT</pubDate>
+     <media:content url="https://www.theindustry.fashion/wp-content/uploads/2024/05/hylo.jpg" type="image/jpeg" />
+   </item>
+ 
+   <item>
+     <title>Luna Daily raises €3.3 million in funding round to take its feminine care range global</title>
+     <link>https://www.globalcosmeticsnews.com/luna-daily-raises-e3-3-million-in-funding-round-to-take-its-feminine-care-range-global/</link>
+     <description>Luna Daily raises funding to expand its feminine care product line globally.</description>
+     <pubDate>Fri, 16 May 2024 13:00:00 GMT</pubDate>
+     <media:content url="https://www.globalcosmeticsnews.com/wp-content/uploads/2024/05/luna-daily.jpg" type="image/jpeg" />
+   </item>
+ 
+ </channel>
+</rss>
